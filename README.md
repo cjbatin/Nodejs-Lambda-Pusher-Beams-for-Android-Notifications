@@ -2,7 +2,7 @@
 
 An example project that accompanies my tutorial on using AWS NodeJS Lambda and Pusher Beams for Android Notifications.
 
-https://pusher.com/tutorials/aws-lambda-nodejs-android-notifications
+https://pusher.com/tutorials/lambda-node-android-push-notifications
 
 ## Getting Started
 
